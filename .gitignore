@@ -1,0 +1,7 @@
+# Compiled source #
+###################
+*.h5
+
+# Packages #
+############
+*.zip
