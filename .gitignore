@@ -5,3 +5,7 @@
 # Packages #
 ############
 *.zip
+
+# PowerPoint #
+##############
+*.pptx
